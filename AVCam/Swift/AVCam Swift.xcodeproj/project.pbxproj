@@ -272,7 +272,7 @@
 				DEVELOPMENT_TEAM = AR36AR2PBF;
 				INFOPLIST_FILE = AVCam/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = I;
+				PRODUCT_BUNDLE_IDENTIFIER = com.piratespaceship.avcam;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -289,7 +289,7 @@
 				DEVELOPMENT_TEAM = AR36AR2PBF;
 				INFOPLIST_FILE = AVCam/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = I;
+				PRODUCT_BUNDLE_IDENTIFIER = com.piratespaceship.avcam;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
